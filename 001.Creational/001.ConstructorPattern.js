@@ -1,4 +1,4 @@
-// This is a class based design pattern
+ // This is a class based design pattern
 // Constructors are special functions that are used to instantiate new objects with methods and properties defined in it
 
 

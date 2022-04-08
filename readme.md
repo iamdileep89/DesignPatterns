@@ -2,6 +2,15 @@
 
 This is the companion repository of the article on [JavaScript Design Patterns](https://able.bio/drenther/javascript-design-patterns--89mv2af)
 
+### Creational
+As the name suggests, these patterns are for handling object creational mechanisms. A creational design pattern basically solves a problem by controlling the creation process of an object.
+
+### Structural
+These patterns are concerned with class and object composition. They help structure or restructure one or more parts without affecting the entire system. In other words, they help obtain new functionalities without tampering with the existing ones.
+
+### Behavioral
+These patterns are concerned with improving communication between dissimilar objects.
+
 ## Table of Contents
 
 ### Creational

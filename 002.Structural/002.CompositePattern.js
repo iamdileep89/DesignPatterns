@@ -101,3 +101,11 @@ rightMid.addChild(new Leaf('right-end'));
 
 // log
 console.log(Component.logTreeStructure(tree));
+// root
+// --left
+// --right
+// ----right-left
+// ----right-middle
+// ------left-end
+// ------right-end
+// ----right-right
